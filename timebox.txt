@@ -1,2 +1,3 @@
 planning & requirement
 design,coding
+testing, deployment
